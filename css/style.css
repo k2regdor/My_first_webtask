@@ -1,33 +1,69 @@
 body {    
-    background-color: #08161e;
+    background-color: #d3dde3;
     font-family: 'Courier New', Courier, monospace;
-    color: rgb(183, 174, 174);
+    color: rgb(215, 68, 174);
 }
 
-.nav_logo{
-    background: url(D:\github\My_first_webtask\image\logo.jpg) norepeat centre centre;
+#yagonoe{
+    background: url(../image/Yagonoe.jpg) no-repeat center center;
     background-size: 100%;
     width: 400px;
     height: 400px;
 }
 
+#main_photo{
+    background: url(../image/main_photo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 400px;
+}
+
+#yagonoe_house{
+    background: url(../image/Yagonoe_house.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 400px;
+}
+
+.nav_logo{
+    background: url(../image/logo.png) no-repeat center center;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+}
+
 .nav_bar {
+    font-size: 50px;
+    font-weight: bold;
 }
+
 .container {
+    margin-top: 15px;
 }
-.row {
-}
-.col-8 {
-}
-.col-4 {
-}
-.col-3.nav_logo {
-}
-.col-9 {
-}
-.nav_text {
-}
-.img_size {
-}
+
 .title_photo {
+    text-align: center;
+}
+
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Button_js{
+    text-align: center;
+}
+
+#myButton{
+    border: none;
+    border-radius: 20px;
+    width: 150px;
+    height: 50px;
+    background-color: crimson;
+    color:antiquewhite;
+    font-weight: bold;
+}
+#demo img {
+    margin-top: 30px;
+    width: 50%;
 }
