@@ -1,0 +1,33 @@
+body {    
+    background-color: #08161e;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(183, 174, 174);
+}
+
+.nav_logo{
+    background: url(D:\github\My_first_webtask\image\logo.jpg) norepeat centre centre;
+    background-size: 100%;
+    width: 400px;
+    height: 400px;
+}
+
+.nav_bar {
+}
+.container {
+}
+.row {
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+}
+.img_size {
+}
+.title_photo {
+}
