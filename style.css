@@ -1,0 +1,111 @@
+body {    
+    background-color: #d3dde3;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(215, 68, 174);
+}
+
+#yagonoe{
+    background: url(../image/Yagonoe.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 400px;
+}
+
+#main_photo{
+    background: url(../image/main_photo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 400px;
+}
+
+#yagonoe_house{
+    background: url(../image/Yagonoe_house.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 400px;
+}
+
+.nav_logo{
+    background: url(../image/logo.png) no-repeat center center;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+}
+
+.nav_bar {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 15px;
+}
+
+.title_photo {
+    text-align: center;
+}
+
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Button_js{
+    text-align: center;
+}
+
+#myButton{
+    border: none;
+    border-radius: 20px;
+    width: 150px;
+    height: 50px;
+    background-color: crimson;
+    color:antiquewhite;
+    font-weight: bold;
+}
+#demo img {
+    margin-top: 30px;
+    width: 50%;
+}
+.index h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.index h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.index{
+    text-align: center;
+}
+
+.form__reg{
+    padding: 7px;
+}
+
+.btn_red{
+    border: none;
+    border-radius:15px;
+    width: 150px;
+    height: 50px;
+    background-color: crimson;
+    color: antiquewhite;
+    font-weight: bold;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    width: 80%;
+  }
+textarea{
+    width: 80%;
+}  
